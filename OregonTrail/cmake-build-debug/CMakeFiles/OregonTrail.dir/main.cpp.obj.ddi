@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles\\OregonTrail.dir\\main.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}
